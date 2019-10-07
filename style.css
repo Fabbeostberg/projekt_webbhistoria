@@ -66,3 +66,12 @@ text-align: center;
 }
 
 
+.wrapper{
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+
+.bild {
+    size: 500px;
+}
+
