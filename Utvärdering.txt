@@ -1,0 +1,17 @@
+Först valde jag ut artiklar från internetmuseum en per årtionde, och kopierade deras länk in på github. Sen gjorde jag en projektplan.
+Det gick bra att göra en projektplan. Det svåraste var att välja artiklar. Det påverkade inget.
+
+Sedan började jag med kodandet då jag gjorde en navbar, och sedan la jag in en bild därefter kopierade jag in text, det var startsidan. Sedan gick jag in på internetmuseum
+Det gick bra att lägga in bilder och text. Det var svårare att göra en navbar. Det som skulle kunna gjort bättre var hur jag organiserade. Navbaren gjorde som användaren kunde gå mellan sidorna
+
+Sedan började jag med historiska händelser där jag gjorde en grid för att ha text och bild på varsin sida. Sen skrev jag in text och la till bilder från de artkiklarna jag valt. Därefter gjorde jag en box med en ljus grå färg som skulle vara runt texten.
+
+Gjorde en Javascript knapp som lägger in text.
+
+Sen valde jag en hemsida som jag jämförde med hur den såg ut flera år sedan. Sen la jag in bilder och svarade på frågorna om den delen. 
+
+Grundläggande principer gick in på länken och kopierade text och bild och la in på Grundläggande principer. sedan valde jag en till artikel som var relaterad och gjorde samma sak.
+
+Webbpublicering valde jag två slumpmässiga ledningssystem, där jag kopierade text och bild dessutom gick jag mer djupgåenede och kopierade in text från relaterade källor.
+
+I slutet kontrollcheckade jag att alla sidor hade samma kod som de såg likadana ut men annan text och bild.
