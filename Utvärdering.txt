@@ -1,17 +1,28 @@
 Först valde jag ut artiklar från internetmuseum en per årtionde, och kopierade deras länk in på github. Sen gjorde jag en projektplan.
-Det gick bra att göra en projektplan. Det svåraste var att välja artiklar. Det påverkade inget.
+Det gick bra att göra en projektplan. Det svåraste var att välja artiklar. Jag hade olika namn på navbaren som inte fanns på andra sidor så ändrade som det blev de samma. Ändrade också min text på startsidan.
 
 Sedan började jag med kodandet då jag gjorde en navbar, och sedan la jag in en bild därefter kopierade jag in text, det var startsidan. Sedan gick jag in på internetmuseum
 Det gick bra att lägga in bilder och text. Det var svårare att göra en navbar. Det som skulle kunna gjort bättre var hur jag organiserade. Navbaren gjorde som användaren kunde gå mellan sidorna
 
 Sedan började jag med historiska händelser där jag gjorde en grid för att ha text och bild på varsin sida. Sen skrev jag in text och la till bilder från de artkiklarna jag valt. Därefter gjorde jag en box med en ljus grå färg som skulle vara runt texten.
+Det gick bra att göra en grid för att dela upp text och bild. Det svåraste var att bestämma storleken jag ville ha på bilderna. Det som skulle kunna gjort bättre var att ha bättre bilder som passade in för formatet eftersom nu finns det öppen vit plats. 
 
 Gjorde en Javascript knapp som lägger in text.
+Det gick bra i slutändan eftersom den funkade. Det var svårt att förstå hur java script fungerade och vad varje del gör. Jag skulle kunna gjort som text inte lades inte där bilden var vilket gör att bilden flyttar på sig när man kilckar på knappen.
 
 Sen valde jag en hemsida som jag jämförde med hur den såg ut flera år sedan. Sen la jag in bilder och svarade på frågorna om den delen. 
+Det gick bra att välja hemsida eftersom man kunde ta vilken som helst. Det som kunde gjort bättre var att ändra storleken på bilderna av hemsidan jag valt.
 
 Grundläggande principer gick in på länken och kopierade text och bild och la in på Grundläggande principer. sedan valde jag en till artikel som var relaterad och gjorde samma sak.
+Det gick bra att kopiera in text men det var svårare att välja artikel som var relaterad med den andra. För att göra den bättre kunde jag haft fler bilder eller använt någon annan för att det inte ska bli konstigt stor vit plats.
 
 Webbpublicering valde jag två slumpmässiga ledningssystem, där jag kopierade text och bild dessutom gick jag mer djupgåenede och kopierade in text från relaterade källor.
+Det gick bra att välja ledningssyet meftersom jag inte riktigt brydde mig om vilken jag valde, men det var svårare att få in bilderna eftersom deras storlek var avlång men inte bred. 
 
 I slutet kontrollcheckade jag att alla sidor hade samma kod som de såg likadana ut men annan text och bild.
+
+
+Overall: 
+Jag tyckte det gick bra att hitta information och lägga in text.
+Det gick dåligt med javascripten eftersom jag inte kollade på videon vilket jag borde gjort för att göra det enklare.
+Det som skulle kunna gjort bättre var javascripten.
